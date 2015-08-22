@@ -9,11 +9,11 @@ What am I doing?
   
 The structure of the program
   Kernal, does computations, decides what the fractal is.
-    +- Fractal, abstract class, provide interfaces.
-    |   +- IFS Fractal
-    |   +- Julia Fractal
-    |   +- Renderer, decides how to render the fractal 
-    |   +- Other utilities (complex arithmetics, Affine contractions etc)
+    Fractal, abstract class, provide interfaces.
+      IFS Fractal
+      Julia Fractal
+      Renderer, decides how to render the fractal 
+      Other utilities (complex arithmetics, Affine contractions etc)
   GUI, decides how to show image on the screen, act between user and kernel.
-    +- Bitmap, displays arrays of Color
-    +- Main Interface, the main program.
+    Bitmap, displays arrays of Color
+    Main Interface, the main program.
