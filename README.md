@@ -19,5 +19,6 @@ The structure of the project:
     - Main Interface, the main program.
     
 Screenshots:
+
 ![alt tag](https://github.com/Crispher/Fractal/blob/master/f1.png)
 ![alt tag](https://github.com/Crispher/Fractal/blob/master/f2.png)
