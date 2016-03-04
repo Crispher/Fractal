@@ -17,3 +17,7 @@ The structure of the project:
   * GUI, decides how to show image on the screen, acts between user and kernel.
     - Bitmap, displays arrays of Color
     - Main Interface, the main program.
+    
+Screenshots:
+![alt tag](https://github.com/Crispher/Fractal/blob/master/f1.png)
+![alt tag](https://github.com/Crispher/Fractal/blob/master/f2.png)
